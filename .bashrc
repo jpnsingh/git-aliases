@@ -1,5 +1,5 @@
 # -------------------------
-# Git Aliases
+# Git aliases
 # -------------------------
 
 alias ga = "git add"
@@ -50,7 +50,7 @@ alias gstp = "git stash pop"
 alias gsts = "git stash save"
 
 # -------------------------
-# Git Functions
+# Git functions
 # -------------------------
 
 # checkout PR by id
